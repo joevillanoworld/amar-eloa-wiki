@@ -1,1 +1,2 @@
 # amar-eloa-wiki
+This project will consist of several interconnected web pages containing information about my home-brew 5E DND world "Amar Eloa". Its purpose is to refresh me on html and css basics so I can continue where I left off on the Odin Project curriculum.
